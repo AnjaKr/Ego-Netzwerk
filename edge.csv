@@ -1,0 +1,7 @@
+from,to,weight,relationship,time
+Ego,S,4,friend,3
+Ego,M,3,sister,3
+Ego,Lu,3,friend,3
+Ego,La,4,friend,3
+S,Lu,3,,
+Lu,S,3,,
